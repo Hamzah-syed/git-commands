@@ -8,6 +8,7 @@
 
 
 ## Addional commands
+- git clone <repo url> // clone repo
 - git status // show status of the repo
 - git log // list commits
 - git config --global user.name "hamzah-syed"
