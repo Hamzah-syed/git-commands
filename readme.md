@@ -13,3 +13,6 @@
 - git log // list commits
 - git config --global user.name "hamzah-syed"
 - git config --global user.email "hamzah.syed17@gmail.com"
+
+## Resources
+https://education.github.com/git-cheat-sheet-education.pdf
