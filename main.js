@@ -71,7 +71,7 @@ class AuthorCl extends AdminCl {
 
 
 
-
+const hamzah = new AuthorCl("hamzah", 2000, 1000000)
 
 console.log(hamzah)
 
